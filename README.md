@@ -13,5 +13,5 @@ https://github.com/elishawalker711/Peer-graded-Assignment-Course-Project-Shiny-A
 
 Click the Below Link for the Rpubs presentation.
 
-http://rpubs.com/bkarmay/338599
+http://rpubs.com/elishawalker711/PricePredictorForDiamonds
 
