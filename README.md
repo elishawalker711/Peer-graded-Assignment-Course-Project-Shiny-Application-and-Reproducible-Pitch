@@ -9,7 +9,7 @@ Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitc
 
 Click the Below Link for the Application.
 
-https://github.com/elishawalker711/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch/
+http://elishawalker711.shinyapps.io/PricePredictorForDiamonds/
 
 Click the Below Link for the Rpubs presentation.
 
